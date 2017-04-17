@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\edit_text.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-mdpi\\edit_text.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\layoutbg.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-mdpi\\layoutbg.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\group_chat_bg.jpg",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-mdpi\\group_chat_bg.jpg"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\balloon_r_selector.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-mdpi\\balloon_r_selector.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_text_button_selector.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-mdpi\\chat_text_button_selector.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_expression_bg.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-mdpi\\chat_expression_bg.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_contact_picture.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-mdpi\\btn_contact_picture.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\chat_send_button_bg.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-mdpi\\chat_send_button_bg.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_row_layout_bg1.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-mdpi\\common_row_layout_bg1.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\balloon_l_selector.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-mdpi\\balloon_l_selector.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\recent_background.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-mdpi\\recent_background.xml"
+    }
+]

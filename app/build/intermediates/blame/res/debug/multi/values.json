@@ -1,0 +1,218 @@
+[
+    {
+        "outputFile": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 16,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endLine": 8,
+                        "endColumn": 16,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 41,
+                    "endOffset": 269
+                },
+                "from": {
+                    "file": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 41,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 274,
+                    "endColumn": 61,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 61,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 59,
+                    "endOffset": 391
+                },
+                "from": {
+                    "file": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 59,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 396,
+                    "endColumn": 56,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endColumn": 56,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 58,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 58,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 61,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endColumn": 61,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 574,
+                    "endColumn": 66,
+                    "endOffset": 636
+                },
+                "from": {
+                    "file": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 584,
+                        "endColumn": 66,
+                        "endOffset": 646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 641,
+                    "endColumn": 60,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 456,
+                        "endColumn": 60,
+                        "endOffset": 512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endColumn": 66,
+                    "endOffset": 764
+                },
+                "from": {
+                    "file": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 517,
+                        "endColumn": 66,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 769,
+                    "endColumn": 58,
+                    "endOffset": 823
+                },
+                "from": {
+                    "file": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 58,
+                        "endOffset": 451
+                    }
+                }
+            }
+        ]
+    }
+]

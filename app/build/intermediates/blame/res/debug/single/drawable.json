@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\class_search.png",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable\\class_search.png"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable\\progress_horizontal.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\class_zip.png",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable\\class_zip.png"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\class_image.png",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable\\class_image.png"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recentthing_item_bg.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable\\recentthing_item_bg.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_load_network_back_icon.png",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable\\setting_load_network_back_icon.png"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\class_doc.png",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable\\class_doc.png"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\folder.png",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable\\folder.png"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\class_music.png",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable\\class_music.png"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\file.png",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable\\file.png"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\class_video.png",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable\\class_video.png"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\class_apk.png",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable\\class_apk.png"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\class_skin_manager.png",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable\\class_skin_manager.png"
+    }
+]

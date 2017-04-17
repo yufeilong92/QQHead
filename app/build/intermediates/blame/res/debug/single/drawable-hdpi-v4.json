@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_sendbtn.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-hdpi\\chat_sendbtn.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\team_item_bg_selector.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-hdpi\\team_item_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_item_group.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-hdpi\\tab_item_group.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_checkbox.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-hdpi\\main_checkbox.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_item_recent.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-hdpi\\tab_item_recent.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_mode_expression_but.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-hdpi\\chat_mode_expression_but.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_edit.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-hdpi\\chat_edit.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_tab_bg.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-hdpi\\main_tab_bg.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_item_weixin.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-hdpi\\tab_item_weixin.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_mode_expression_radiobut.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\drawable-hdpi\\chat_mode_expression_radiobut.xml"
+    }
+]

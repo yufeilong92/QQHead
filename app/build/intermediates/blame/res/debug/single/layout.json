@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edituserinfo.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\layout\\edituserinfo.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\team_layout_main_singlechat_item.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\layout\\team_layout_main_singlechat_item.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\team_layout_main_singlechat.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\layout\\team_layout_main_singlechat.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\team_layout_single_expression_cell.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\layout\\team_layout_single_expression_cell.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\QQHead1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expression_pane.xml",
+        "source": "D:\\old_Project\\demo\\QQHead1\\app\\src\\main\\res\\layout\\expression_pane.xml"
+    }
+]
